@@ -1,0 +1,19 @@
+{
+  "name": "warsawjs-workshop-37-typescript",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/warsawjs-workshop-37-typescript.git"
+  },
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (http://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/warsawjs-workshop-37-typescript/issues"
+  },
+  "homepage": "https://github.com/rsp/warsawjs-workshop-37-typescript#readme"
+}
